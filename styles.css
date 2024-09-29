@@ -122,18 +122,7 @@ header nav a {
   text-decoration: none;
 }
 
-/* .big-stepper {
-  display: block;
-  margin-bottom: 20px; 
-  margin-right: 9rem;
-  
-}
 
-.big-stepper a {
-  font-size: 24px; 
-  font-weight: bold;
-  border: 1px solid red;
-} */
 
 
 main {
@@ -287,12 +276,12 @@ main #home .container .profile ul li a {
   text-decoration: none;
   /* margin-left: 1.5rem; */
 }
-main #home .container .profile ul .child-1{
-  background-color: black;
+main #home .container .profile ul .child-2{
+  /* background-color: black;
   color: #f0f0f0;
-  padding-left: 1rem;
-  border-top-left-radius: 2rem;
-  border-bottom-left-radius: 2rem;
+  padding-left: 1rem; */
+  /* border-top-left-radius: 2rem;
+  border-bottom-left-radius: 2rem; */
 }
 
 main #home .container .profile ul .child-1:hover{

@@ -287,12 +287,13 @@
     text-decoration: none;
     /* margin-left: 1.5rem; */
   }
-  main #home .container .profile ul .child-1{
+  main #home .container .profile ul li .child-2{
     background-color: black;
     color: #f0f0f0;
+    border: 2px solid red;
     padding-left: 1rem;
-    border-top-left-radius: 2rem;
-    border-bottom-left-radius: 2rem;
+    /* border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem; */
   }
   
   main #home .container .profile ul .child-1:hover{
